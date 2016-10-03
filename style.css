@@ -1,14 +1,24 @@
 h1
 		{
-		color: #336699
-		font-family: calibri;
+			color: #336699;
+			font-family: calibri;
 		}
 img
 		{
-		border: 1px dashed #993333;
+			border: 1px dashed #993333;
 		}
 h2
 		{
-		font-family: tahoma;
-		color: #996633;
+			font-family: tahoma;
+			color: #996633;
+		}
+h3
+		{
+			font-family: verdana;
+			color: #bd0300;
+		}
+h4 
+		{
+			font-family: calibri;
+			color: ##2b4372;
 		}
